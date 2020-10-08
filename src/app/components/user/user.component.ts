@@ -47,5 +47,6 @@ export class UserComponent implements OnInit {
     this.username = null
     this.reference = null
     this.msg = null
+    this.isSuccess = false
   }
 }
