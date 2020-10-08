@@ -12,6 +12,7 @@
   "private": true,
   "dependencies": {
     "@angular/animations": "~10.1.2",
+    "@angular/cdk": "^10.2.4",
     "@angular/common": "~10.1.2",
     "@angular/compiler": "~10.1.2",
     "@angular/core": "~10.1.2",
@@ -22,6 +23,7 @@
     "bootstrap": "^4.5.2",
     "express": "^4.17.1",
     "font-awesome": "^4.7.0",
+    "ngx-spinner": "^10.0.1",
     "nodemon": "^2.0.4",
     "rxjs": "~6.6.0",
     "tslib": "^2.0.0",
